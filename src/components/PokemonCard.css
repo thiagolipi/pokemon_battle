@@ -1,0 +1,22 @@
+.card {   
+   text-align: center;
+   border-radius: 10px;
+   border: lightgray solid 3px;
+   height: 30vh;
+   width: 20vw;
+   margin-top: 5vh;
+}
+
+.card h2 {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.card-image {
+   border: 1px lightgray solid;
+}
+
+dialog {
+   background-color: lightblue;
+   height: 100vh;
+}

@@ -1,0 +1,27 @@
+section {
+    margin-top: 5vh;
+    margin-left: auto;
+    margin-right: auto;        
+    width: 30vw;
+}
+
+.pokemon {
+    text-align: center;    
+}
+
+.battle {
+    text-align: center;    
+}
+
+.battle button {
+    width: 10vw;
+    border-radius: 10px;
+    color: white;
+    background-color: red;
+    cursor: pointer;
+}
+
+.pokemon div {
+    margin: auto;    
+}
+
